@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Package and build files
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# Testing
+.pytest_cache/
+coverage/
+*.cov
+*.xml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
